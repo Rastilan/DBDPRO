@@ -1,0 +1,38 @@
+
+.navbar {
+   background-color: black;
+
+}
+.content-padding{
+  padding-top: 2.5em;
+}
+.container {
+
+}
+/* Let side of the content on any main page */
+.content-left{
+  height: 100vh;
+}
+/* Right side of the content on any main page */
+.content-mid{
+  background-color: grey;
+  height: 100vh;
+}
+/* Right side of the content on any main page */
+.content-right{
+  height: 100vh;
+
+}
+
+.builds-favorite{
+  margin-top: 2em;
+}
+.builds-recent {
+  margin-top: 2em;
+}
+.builds-top{
+  margin-top: 2em;
+}
+.builds-pro{
+  margin-top: 2em;
+}
